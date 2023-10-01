@@ -1,0 +1,6 @@
+*
+.SUBCKT AudioIn In
+
+R1 In 0 1G
+
+.ENDS

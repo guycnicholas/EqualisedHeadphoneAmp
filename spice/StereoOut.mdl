@@ -1,0 +1,9 @@
+*
+.SUBCKT StereoOut L LSw RSw R Ret
+
+R1 L Ret 35
+R2 R Ret 35
+R3 LSw L 1G
+R4 RSw R 1G
+
+.ENDS
